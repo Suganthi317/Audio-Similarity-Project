@@ -45,10 +45,10 @@ and produces a numerical similarity score.
 ## 📁 Project Structure
 AudioSimilarityProject/
 │
-├── audio/ # Input audio files
-├── output/ # Graphs and result report
-├── main.py # Main program
-└── README.md # Project documentation
+├── audio/ ## Input audio files
+├── output/ ## Graphs and result report
+├── main.py ## Main program
+└── README.md ## Project documentation
 
 ---
 
@@ -71,3 +71,4 @@ The program generates:
 
 ## 📌 Conclusion
 This project demonstrates practical application of digital signal processing concepts and audio feature analysis, suitable for academic mini-projects and internship evaluations.
+
