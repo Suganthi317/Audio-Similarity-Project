@@ -1,0 +1,12 @@
+AUDIO SIMILARITY ANALYSIS REPORT
+*************************************
+
+Audio 1 File: audio/audio1.mp3
+Audio 2 File: audio/audio2.mp3
+
+MFCC Similarity           : 0.9659
+Spectral Centroid Similar : 0.8318
+RMS Energy Similarity     : 0.7213
+
+FINAL Similarity Score    : 0.88%
+Conclusion                : Very Similar
